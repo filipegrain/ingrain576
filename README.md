@@ -1,4 +1,4 @@
-## Hello, welcome to my profile! 👋
+## Hello there, welcome to my profile! 👋
 I’m always learning and trying to improve my skills, currently working to be a fullstack web developer.
   
 ## Technologies
