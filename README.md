@@ -14,8 +14,8 @@ I’m always learning and trying to improve my skills, currently working to be a
 <br>
 <div align="center">
   <a href="https://github.com/ingrain576">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ingrain576&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrain576&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ingrain576&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrain576&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ## Social Media
