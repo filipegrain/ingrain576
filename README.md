@@ -3,9 +3,9 @@ I’m always learning and trying to improve my skills, currently working to be a
   
 ## Technologies
 <div align="center">
-  <a href="https://github.com/ingrain576">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ingrain576&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrain576&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/filipegrain">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=filipegrain&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipegrain&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
